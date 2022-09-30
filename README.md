@@ -1,6 +1,6 @@
 # Assignment3 - Pine Chapter 6 Questions
 
-To accept this assignment: https://classroom.github.com/a/Is0W9mQr
+To accept this assignment: https://classroom.github.com/a/wHZdymXW
 
 These questions correspond to chapter 6 of the Pine Python Manual (Ch 5 of the old manual)
 
